@@ -51,7 +51,9 @@ Apply the manifest from
 
 https://github.com/openshift/tektoncd-pipeline-operator/blob/master/samples/catalog-source.yaml
 
-in your OKD cluster. After a few seconds the operator will be available in the OperatorHub and you can install it.
+in your OKD cluster. Don't forget to adjust the location of the catalog image in the yaml file before! 
+
+After a few seconds the operator will be available in the OperatorHub and you can install it.
 
 ## To Dos
 
